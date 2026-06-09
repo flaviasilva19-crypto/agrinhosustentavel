@@ -1,0 +1,6 @@
+{
+  "name": "Agrinho Sustentável",
+  "description": "Plataforma interativa com quizzes, jogos educativos, linha do tempo histórica e gamificação sobre a sustentabilidade no agronegócio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
